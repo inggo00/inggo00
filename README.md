@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inggo00
 - 👀 I’m interested in becoming a cpa lawyer + programmer.
 - 🌱 I’m currently learning accountancy and programming.
-- 💞️ I’m looking to collaborate on with famous programmers.
+- 💞️ I’m looking to collaborate with famous programmers.
 - 📫 How to reach me just email me at storagemmb.1@gmail.com
 
 <!---
